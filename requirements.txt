@@ -1,0 +1,4 @@
+langdetect==1.0.9
+pytz==2021.3
+Telethon==0.12
+tokenize_uk==0.2.0
